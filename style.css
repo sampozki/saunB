@@ -1,0 +1,40 @@
+.content{
+    margin:auto;
+    width: 95vw;
+    text-align: center;
+    
+}
+body{
+    background-color: black;
+}
+
+h1, p {
+    font-family:"Raleway", sans-serif, cursive;
+    color:white;
+}
+
+h1{
+    font-size:40px;
+}
+
+p{
+    font-size:20px;
+}
+
+#image {
+    max-width: 90vw;
+}
+
+button{
+    background-color:#FFF;
+    border:1px solid black;
+    height:80px;
+    width:30vw;
+    font-size:30px;
+}
+
+#prev, #next {
+    width: 20vw;
+    margin-left:20px;
+    margin-right: 20px;
+}
